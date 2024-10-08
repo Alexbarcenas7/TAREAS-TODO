@@ -44,5 +44,6 @@ informacion: pais que deseo visitar
         System.out.println(" Su ocupacion fue la de: " + ocupacion );
         System.out.println(" Su mayor logro fue: " + logroDestacado);
 
+        
     }
 }
