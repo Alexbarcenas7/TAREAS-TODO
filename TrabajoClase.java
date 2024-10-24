@@ -7,7 +7,7 @@ package javaapplication2;
 import java.util.Scanner;
 /**
  *
- * @author JOSEGUADALUPEPEREZCO
+ * @author ALEJANDROBARCENASDAVALOS
  */
 public class JavaApplication2 {
 
